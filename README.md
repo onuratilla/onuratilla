@@ -6,7 +6,7 @@
 
 📫 How you can reach me:
 - 🚀 Instagram: @onuratilla0
-- 🤖 Youtube: Onuratilla0
+- 🤖 Mail: onuratilla00@gmail.com
 
 💬 Nice to see you here!
 
