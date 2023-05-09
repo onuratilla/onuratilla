@@ -5,7 +5,7 @@
 🔭  I am currently working on HTML, CSS, JavaScript, TypeScript, React and Angular.
 
 📫 How you can reach me:
-- 🚀 Instagram: @onuratilla0
+- 🚀 Instagram: [onuratilla0](https://www.instagram.com/onuratilla0)
 - 🤖 Mail: onuratilla00@gmail.com
 
 💬 Nice to see you here!
