@@ -10,6 +10,6 @@
 
 <a href="https://www.instagram.com/onuratilla0"><img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:onuratilla00@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/onur-atilla-3066a1264"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/onuratilla"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onuratilla)](https://github.com/onuratilla)
