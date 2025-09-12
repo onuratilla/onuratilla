@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Hello,+I'm+Onur+Atilla)
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-onuratilla&color=green)
