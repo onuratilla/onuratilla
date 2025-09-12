@@ -1,10 +1,10 @@
 ### Hello, I'm Onur Atilla 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-onuratilla&color=green)
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-![](https://komarev.com/ghpvc/?username=onuratilla&color=green)
 
-💬  I am currently working on HTML, CSS, JavaScript, TypeScript, React and Angular.
 
 📫 How to reach me:
 
