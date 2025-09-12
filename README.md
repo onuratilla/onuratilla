@@ -2,11 +2,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-onuratilla&color=green)
-
-
-
-
-
 📫 How to reach me:
 
 <a href="https://www.instagram.com/onuratilla0"><img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
