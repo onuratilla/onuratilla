@@ -9,5 +9,3 @@
 <a href="https://www.instagram.com/onuratilla0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="mailto:onuratilla00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/onuratilla"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-
-![](https://hit.yhype.me/github/profile?account_id=118292337)
