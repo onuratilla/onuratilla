@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-![](https://komarev.com/ghpvc/?username=your-github-onuratilla)
+![](https://komarev.com/ghpvc/?username=onuratilla)
 
 📫 How to reach me:
 
