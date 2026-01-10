@@ -1,12 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Onur+Atilla)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Onur+Atilla)](https://git.io/typing-svg)
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-![](https://komarev.com/ghpvc/?username=your-github-onuratilla&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-onuratilla)
 
 📫 How to reach me:
 
-<a href="https://www.instagram.com/onuratilla0"><img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:onuratilla00@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/onuratilla"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onuratilla)](https://github.com/onuratilla)
+<a href="https://www.instagram.com/onuratilla0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="mailto:onuratilla00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/onuratilla"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
